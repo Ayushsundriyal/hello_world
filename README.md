@@ -4,4 +4,4 @@ My first github repo.
 
 ## Tasks to complete
 
- - [ ] Learn Dancing.
+ - [x] Learn Dancing.
