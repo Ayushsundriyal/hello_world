@@ -5,5 +5,5 @@ My first github repo.
 ## Tasks to complete
 
  - [x] Learn Dancing.
- - [ ] Slay it.
- - [ ] More of 1.
+ - [x] Slay it.
+ - [x] More of 1.
